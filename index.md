@@ -17,6 +17,7 @@ Passionate software engineer with 5+ years of experience building scalable web a
 ### 🏢 Work Experience
 
 *2023.06 – Present*
+
 **Lead Software Engineer** | **TechCorp**
 
 - Led the development of a scalable e-commerce platform handling 1M+ users.
