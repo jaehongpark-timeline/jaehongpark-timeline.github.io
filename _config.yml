@@ -2,4 +2,4 @@ title: "Jaehong Park"
 description: "Software Engineer"
 baseurl: ""
 url: "https://jaehongpark-timeline.github.io"
-theme: jekyll-theme-minimal
+theme: minima
